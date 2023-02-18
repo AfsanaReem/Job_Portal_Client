@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "company_name": "bKash Ltd.",
+        "location": "Mohakhali",
+        "position": "Lead Engineer",
+        "logo": "https://www.logo.wine/a/logo/BKash/BKash-bKash-Logo.wine.svg",
+        "experience": "3 years or above"
+    },
+    {
+        "id": 2,
+        "company_name": "Grameenphone Ltd.",
+        "location": "Basundhara",
+        "position": "Senior Specialist, Data Analytics",
+        "logo": "https://ahkhan.com/wp-content/uploads/2018/07/Grameenphone_Logo.png",
+        "experience": " 4 years or above"
+    },
+    {
+        "id": 3,
+        "company_name": "Huawei",
+        "location": "Banani",
+        "position": "Manager, Software Development",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdkZejCsf9_vzaJWTe8g_g7BN1Pc28c7lOHzPMMRG&s",
+        "experience": "7 years or above"
+    },
+    {
+        "id": 4,
+        "company_name": "Upay Ltd.",
+        "location": "Gulshan 2",
+        "position": "Assistant Manager, IT Compliance",
+        "logo": "https://api.upaybd.com/media/dynamic_image/Website_Footer.png",
+        "experience": "5 years or above"
+    },
+    {
+        "id": 5,
+        "company_name": "Datasofts Systems Bangladesh Ltd.",
+        "location": "Shyamoli",
+        "position": "Senior Software Developer",
+        "logo": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/62d0f39d94c81000012b07af/picture",
+        "experience": "4 years or above"
+    },
+    {
+        "id": 6,
+        "company_name": "Magnito Digital Ltd.",
+        "location": "Gulshan 2",
+        "position": "Internal Auditor, IT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREStQlnP3OqEi_YpnuOGs4tU02l_Qgp1EyyUjrh8f67A&s",
+        "experience": "2-3 years in the relevant field."
+    }
+]
